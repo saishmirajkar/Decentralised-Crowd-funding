@@ -74,9 +74,9 @@ Inspired by the work of "javascript mastery" i've built upon their ideas to crea
 
 For any inquiries or feedback, please reach out to us:
 
-- Email: your_email@example.com
-- Discord: YourUsername#1234
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- Email: saishmirajkar0@gmail.com
+- Discord: https://discord.com/users/saish7147 
+- Twitter: https://twitter.com/saishmirajkar1
+- GitHub: https://github.com/saishmirajkar
 
 Thank you for using our Decentralized Crowdfunding Platform! Start crowdfunding your projects with cryptocurrency donations today and bring your ideas to life. Happy crowdfunding! 🚀💸
